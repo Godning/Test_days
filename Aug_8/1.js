@@ -24,7 +24,7 @@ function cut(x) {
 }
 
 let ans = function (x) {
-    console.log(cut(x));
+    console.log(x+"="+cut(x));
 }
 
 ans(90);
