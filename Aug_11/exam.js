@@ -31,7 +31,7 @@ function delete_node(str, val) {
     }
 
 }
-
+console.log(delete_node("",3));
 console.log(delete_node("1->2->3->3->4->5->3",3));
 console.log(delete_node("3->3->3->3->4->3->3",3));
 console.log(delete_node("3->3->3->3->3->3->3",3));
