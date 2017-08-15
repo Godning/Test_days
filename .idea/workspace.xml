@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="638f9a87-757a-4548-befc-3f38bb152d77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Aug_13/exam.js" afterPath="$PROJECT_DIR$/Aug_13/exam.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +22,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="exam.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Aug_12/exam.js">
+        <entry file="file://$PROJECT_DIR$/Aug_13/exam.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="300">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#get_mid_num#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,8 +54,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/exam.js" />
         <option value="$PROJECT_DIR$/Aug_11/exam.js" />
-        <option value="$PROJECT_DIR$/Aug_13/exam.js" />
         <option value="$PROJECT_DIR$/Aug_12/exam.js" />
+        <option value="$PROJECT_DIR$/Aug_13/exam.js" />
       </list>
     </option>
   </component>
@@ -104,7 +106,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Aug_12" />
+              <option name="myItemId" value="Aug_13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -124,20 +126,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Aug_13" />
       <recent name="$PROJECT_DIR$/Aug_12" />
       <recent name="$PROJECT_DIR$/Aug_11" />
       <recent name="$PROJECT_DIR$/Aug_10" />
       <recent name="$PROJECT_DIR$/Aug_9" />
-      <recent name="$PROJECT_DIR$/Aug_8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Aug_11" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.exam.js (3)">
-    <configuration default="false" name="1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="1.js" working-dir="$PROJECT_DIR$/Aug_8">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.exam.js (4)">
     <configuration default="false" name="exam.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="exam.js" working-dir="$PROJECT_DIR$/Aug_9">
       <method />
     </configuration>
@@ -148,6 +147,9 @@
       <method />
     </configuration>
     <configuration default="false" name="exam.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="exam.js" working-dir="$PROJECT_DIR$/Aug_12">
+      <method />
+    </configuration>
+    <configuration default="false" name="exam.js (4)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="exam.js" working-dir="$PROJECT_DIR$/Aug_13">
       <method />
     </configuration>
     <configuration default="true" type="ApexTest" factoryName="Apex Test">
@@ -213,19 +215,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.1.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.exam.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.exam.js (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.exam.js (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.exam.js (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.exam.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.exam.js (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.exam.js (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.exam.js (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.exam.js (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.exam.js (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.exam.js (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.exam.js (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.exam.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.1.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.exam.js (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.exam.js (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.exam.js (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.exam.js (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.exam.js" />
       </list>
     </recent_temporary>
   </component>
@@ -244,18 +246,18 @@
       <workItem from="1502344770045" duration="878000" />
       <workItem from="1502431339725" duration="184000" />
       <workItem from="1502431554227" duration="796000" />
-      <workItem from="1502767867377" duration="593000" />
+      <workItem from="1502767867377" duration="1211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7780000" />
+    <option name="totallyTimeSpent" value="8398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24543288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24543288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -405,14 +407,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aug_13/exam.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Aug_11/exam.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -428,9 +422,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Aug_12/exam.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="285">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aug_13/exam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#get_mid_num#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
