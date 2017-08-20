@@ -13,7 +13,7 @@ function build_ans(result) {
     return ans;
 }
 /**
- * Created by zhaoningli on 2017/8/18.
+ * Created by zhaoningli on 2017/8/20.
  */
 module.exports = function find(arr) {
     let result = [];
