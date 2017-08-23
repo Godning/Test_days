@@ -2,24 +2,26 @@
  * Created by zhaoningli on 2017/8/20.
  */
 
-const exam= require('./exam.js');
+const expand= require('./expand');
 
 // import median from "./median.js";
 
-describe("SquareElement",function(){
+describe("Array_expand",function(){
     it("test1", function() {
-        let str = 'abcsbaddbizdbas';
-        let result = {b :4};
-        console.log(str);
-        console.log(result);
-        expect(exam(str)).toEqual(result);
+        let arr = [1,2,[1,2]];
+        let result = [1,2,1,2];
+        expect(expand(arr)).toEqual(result);
     });
 
     it("test2", function() {
-        let str = 'aaaaabbdbdbb';
-        let result = {a :5, b :5};
-        console.log(str);
-        console.log(result);
-        expect(exam(str)).toEqual(result);
+        let arr = [1,2,[1,2],[3,4]];
+        let result = [1,2,1,2,3,4];
+        expect(expand(arr)).toEqual(result);
+    });
+
+    it("test3", function() {
+        let arr = [4,[3,[2,[1]]]];
+        let result = [4,3,2,1];
+        expect(expand(arr)).toEqual(result);
     });
 });
